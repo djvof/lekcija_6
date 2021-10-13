@@ -1,0 +1,7 @@
+C:\LU_C_maciba\lekcija_6\Classwork\bin\Debug\Classwork.exe.config
+C:\LU_C_maciba\lekcija_6\Classwork\bin\Debug\Classwork.exe
+C:\LU_C_maciba\lekcija_6\Classwork\bin\Debug\Classwork.pdb
+C:\LU_C_maciba\lekcija_6\Classwork\obj\Debug\Classwork.csproj.AssemblyReference.cache
+C:\LU_C_maciba\lekcija_6\Classwork\obj\Debug\Classwork.csproj.CoreCompileInputs.cache
+C:\LU_C_maciba\lekcija_6\Classwork\obj\Debug\Classwork.exe
+C:\LU_C_maciba\lekcija_6\Classwork\obj\Debug\Classwork.pdb
